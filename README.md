@@ -3,7 +3,7 @@
 
 Site institucional da **Inácio & Leal Contabilidade**, escritório de contabilidade localizado em Florianópolis, SC. Desenvolvido com React, TypeScript, Vite e Tailwind CSS.
 
-🔗 **Site publicado:** [inacioleal.com.br](https://inacioleal.com.br) *(ou URL do deploy)*
+🔗 **Site publicado:** https://inaciolealcontabilidade.lovable.app/
 
 ---
 
